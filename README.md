@@ -1,1 +1,8 @@
-# FRAUD-DETECTION
+# ** FRAUD-DETECTION USING KERAS-LSTM**
+
+Fraud detection is a critical component of risk management for businesses across various industries, aiming to identify and prevent fraudulent activities before they cause significant harm.
+Detecting fraud using machine learning represents a transformative approach to combating financial crimes and protecting businesses from malicious activities. In this preview, we will explore the innovative applications of machine learning algorithms, artificial intelligence, and data analytics in fraud detection. From anomaly detection and pattern recognition to predictive modeling and risk scoring, machine learning empowers organizations to identify fraudulent behavior with greater accuracy, speed, and efficiency than traditional methods. 
+
+We will delve into the key concepts and methodologies behind machine learning-based fraud detection, including supervised and unsupervised learning techniques, ensemble methods, and deep learning models. Using a real-world example and case study of a fintech company, we will showcase how leading companies and financial institutions leverage machine learning to detect fraudulent transactions, prevent losses, and safeguard the integrity of their operations. Join us as we unravel the potential of machine learning in the fight against fraud, exploring its capabilities, challenges, and implications for the future of cybersecurity and risk management.
+
+The fradulent transcations will be labelled (1) and the non-fradulent transcations will be labelled (o). A critea of anomaly detection will be able to loop out using a threshold of odentifying the transcations. Most fintech companies that are running monentary values do struggle and stand at a high chance of having repeated scams from both the customers and the companies themselves. 
